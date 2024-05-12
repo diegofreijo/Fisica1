@@ -15,6 +15,4 @@ public class Motor : MonoBehaviour
         // Otra forma en la que se suele escribir la linea de arriba
         // rb.AddForce(Vector2.right * propulsion);
     }
-
-
 }
