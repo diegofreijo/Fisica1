@@ -9,6 +9,6 @@ public class RozamientoDelAire : MonoBehaviour
 
     void Start()
     {
-        rb.drag = rozamiento * rb.mass;
+        rb.drag = rozamiento / rb.mass;
     }
 }
